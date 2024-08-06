@@ -35,7 +35,7 @@ Setup
 Clone the Repository
 
 
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/M-I-Theogene/theogene_22RP01832
 cd student-management-system
 Configure the Database
 
