@@ -34,7 +34,7 @@ A web server like Apache (XAMPP or similar)
 <h3>Setup</h3>
 <b>Clone the Repository</b>  
 <ul>
-  <li>cd htdocs</li>
+
   <li>git clone https://github.com/M-I-Theogene/theogene_22RP01832</li>
 </li>
 </ul>
