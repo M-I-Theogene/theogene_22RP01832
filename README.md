@@ -1,51 +1,49 @@
 
 ______________________________________________________________________________________________________
 ______________________________________________________________________________________________________
-!!! NB : use username: <b>thg</b> while password must be : <b>Chelsea@17</b> on login.php interface
+<b>!!! NB : use username: <b>thg</b> while password must be : <b>Chelsea@17</b> on login.php interface</b>
 ___________________________________________________________________________________________________________
 _______________________________________________________________________________________________________________
 
 
 
 
-Student Management System
+<h2>Student Management System</h2>  
 ________________________________________________
 
-Overview
+<h3>Overview</h3>
 
 The Student Management System is a web-based application built using PHP and MySQL for managing student records in a school. It allows administrators to log in, view, add, edit, and delete student records through a user-friendly web interface. The system ensures secure access with session-based authentication and provides a responsive design using Bootstrap.
 ___________________________________________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________
 
-Features
+<h3>Features</h3>
 
 *User Authentication: Secure login for administrators.
 *CRUD Operations: Create, Read, Update, and Delete student records.
 *Validation: Ensures data integrity with validation for email uniqueness and phone number format.
 *Responsive Design: Mobile-friendly interface using Bootstrap.
 *Icons: Utilizes Font Awesome icons for intuitive navigation and actions.
-Installation
-Prerequisites
+<h3>Installation Prerequisites</h3>  
 ___________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________
 
 PHP (version 7.4 or higher)
 MySQL (version 5.7 or higher)
 A web server like Apache (XAMPP or similar)
-Setup
-Clone the Repository
-
-
+<h3>Setup</h3>
+<b>Clone the Repository</b>  
 git clone https://github.com/M-I-Theogene/theogene_22RP01832
 cd student-management-system
-Configure the Database
+
+<h3>Configure the Database</h3>
 
 Create a MySQL database named student_management.
 then import from the phpMyAdmin interface the student_management.sql found in database folder 
 
 _________________________________________________________________________________________________________________
 
-Set Up Your Web Server
+<h3>Set Up Your Web Server</h3>
 _________________________________________________________________________________________________________________________
 
 Place the project files in the web server's document root directory (e.g., htdocs for XAMPP).
@@ -57,7 +55,7 @@ Visit login.php to log in as an administrator. Enter your credentials to access 
 
 ______________________________________________________________________________________________________
 ______________________________________________________________________________________________________
-!!! NB : use username: thg while password must be : Chelsea@17
+<b>!!! NB : use username: thg while password must be : Chelsea@17</b>
 ___________________________________________________________________________________________________________
 _______________________________________________________________________________________________________________
 
