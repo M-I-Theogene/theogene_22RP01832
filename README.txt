@@ -70,4 +70,5 @@ Delete Student: Click the delete button to remove a student record.
 Validation Rules
 Email: Must be unique across all student records.
 Phone Number: Must start with "07" and be 10 digits long.
+Date of birth must not be in future or today and it must not be more than 120 years
 
