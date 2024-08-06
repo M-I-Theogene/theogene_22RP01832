@@ -91,9 +91,9 @@ ________________________________________________________________________________
 
   <li>
    <b> Validation Rules</b>
-Email: Must be unique across all student records.
-Phone Number: Must start with "07" and be 10 digits long.
-Date of birth must not be in future or today and it must not be more than 120 years
+<li> Email: Must be unique across all student records.</li>
+<li>Phone Number: Must start with "07" and be 10 digits long.</li>
+<li></i>Date of birth must not be in future or today and it must not be more than 120 years</li>
   </li>
   
 </ul>
